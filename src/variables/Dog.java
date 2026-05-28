@@ -1,4 +1,4 @@
-package varibales;
+package variables;
 
 public class Dog {
     public String breed = "German Shepard";
